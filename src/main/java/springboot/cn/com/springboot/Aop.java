@@ -5,6 +5,11 @@ import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.context.annotation.Configuration;
+/**
+ * aop测试例子
+ * @author allen
+ *
+ */
 @Aspect
 @Configuration
 public class Aop {
